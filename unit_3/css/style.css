@@ -1,6 +1,9 @@
 
-body {background-color: coral;}
-h1 {
+body {
+  background-color:pink;
+}
+
+title {
   color: black;
 }
 {
@@ -21,6 +24,31 @@ h1 {
 {
   text-transform: uppercase;
 }
+h1 {
+  color: black;
+}
+{
+  font-family: "Times New Roman", Times, serif;
+}
+{
+  font-size: 30px;
+}
+{
+  font-weight: normal;
+}
+{
+  text-align: center;
+}
+
+{
+  font-style: italic;
+}
+{
+  text-decoration: underline;
+}
+{
+  text-transform: uppercase;
+}
 
 
 p {
@@ -36,7 +64,7 @@ p {
   font-weight: normal;
 }
 {
-  text-align: center;
+  text-align: left;
 }
 {
   text-decoration: none;
@@ -48,7 +76,7 @@ p {
 
 
 #slogan { 
-  background-color: yellow;
+  color: black;
 }
 {
   color: pink;
@@ -73,5 +101,8 @@ p {
 }
 
 img {
-  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
